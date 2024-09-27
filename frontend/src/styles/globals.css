@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+}
+/* Scrollbar styles for WebKit browsers (Chrome, Safari) */
+.scrollbar-custom::-webkit-scrollbar {
+  width: 10px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: transparent; /* Transparent track background */
+}
+
+/* Customize or hide scrollbar arrows */
+.scrollbar-custom::-webkit-scrollbar-button {
+  display: none; /* Hides the top and bottom arrows */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #888; /* Scrollbar thumb */
+  border-radius: 10px; /* Rounded scrollbar thumb */
+}
+
+.scrollbar-custom::-webkit-scrollbar-button {
+  display: none; /* Hides the top and bottom arrows */
+}
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #888; /* Customize scrollbar thumb color */
+  border-radius: 10px; /* Optional: Rounded scrollbar thumb */
+}
+
+/* Scrollbar styles for Firefox */
+.scrollbar-custom {
+  scrollbar-width: thin;
+  scrollbar-color: #92400ea3 white; /* thumb color, track color */
+}
+/* .scrollbar-custom {
+  scrollbar-width: none;
+} */

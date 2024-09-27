@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "noEmit": true // This prevents TypeScript from emitting files
+  },
+  "exclude": ["node_modules"]
+}
