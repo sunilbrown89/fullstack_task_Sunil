@@ -19,28 +19,28 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 1) npm install
 2) npm run start
 <br>
-**Login Page**
-![Login Page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI1.png)
+**UI**
+![Landing Page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI1.png)
 <br>
-**Dashboard**
-![Dashboard](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png)
+**Adding new task**
+![Adding new task](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png)
 <br>
-**Dashboard Components**
-![Dashboard Components](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI3.png)
+**Responsive UI 1**
+![Responsive UI 1](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI3.png)
 <br>
-**Sidebar**
+**Responsive UI 2**
 <br>
-![Sidebar](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI4_responsive1.png)
+![Responsive UI 2](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI4_responsive1.png)
 <br>
-**Sidebar Menu Page**
-![Sidebar menu page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI5_responsive2_Iphone_small_phone.png)
+**Responsive UI small phone/Iphone**
+![Responsive UI small phone/Iphone](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI5_responsive2_Iphone_small_phone.png)
 <br>
-**Responsive**
+**Responsive UI small phone/Iphone 14 pro max**
 <br>
-![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI6_responsive3_Iphone14.png)
-**Responsive**
+![Responsive UI small phone/Iphone 14 pro max](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI6_responsive3_Iphone14.png)
+**Responsive UI tabket**
 <br>
-![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI7_responsive4_tablet.png)
+![Responsive UI tabket](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI7_responsive4_tablet.png)
 **Responsive**
 <br>
 ![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI8_responsive5_macbookair.png)
