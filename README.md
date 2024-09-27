@@ -14,10 +14,9 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 <br>
 # Frontend: How to clone and run the frontend
 1) npm install
-<br>
 2) npm run start
+<br>
 <br>
 # Backend: How to clone and run the backend
 1) npm install
-<br>
 2) npm run start
