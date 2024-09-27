@@ -11,7 +11,7 @@ const Todo = () => {
   useEffect(() => {
     const fetchTasks = async () => {
       try {
-        const response = await fetch("http://localhost:8000/fetchAllTasks");
+        const response = await fetch("https://fullstack-task-sunil.onrender.com/fetchAllTasks");
         const result = await response.json();
         setData(result); 
       } catch (error) {
@@ -28,7 +28,7 @@ const Todo = () => {
       return;
     }
     try {
-      const response = await fetch("http://localhost:8000/add", {
+      const response = await fetch("https://fullstack-task-sunil.onrender.com/add", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ task: todo }),
@@ -49,7 +49,7 @@ const Todo = () => {
   //for delete all tasks
   const deleteAllTasks = async () => {
     try {
-      const response = await fetch("http://localhost:8000/deleteAllTasks", {
+      const response = await fetch("https://fullstack-task-sunil.onrender.com/deleteAllTasks", {
         method: "DELETE",
       });
 
