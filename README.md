@@ -13,13 +13,11 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 <br>
 <br>
 # Frontend: How to clone and run the frontend
-<br>
 1)npm install
 <br>
 2)npm run start
 <br>
 # Backend: How to clone and run the backend
-<br>
 1)npm install
 <br>
 2)npm run start
