@@ -20,27 +20,27 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 2) npm run start
 <br>
 **Login Page**
-![Login Page](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI1.png)
+![Login Page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI1.png)
 <br>
 **Dashboard**
-![Dashboard](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI2_after_adding_task.png)
+![Dashboard](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png)
 <br>
 **Dashboard Components**
-![Dashboard Components](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI3.png)
+![Dashboard Components](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI3.png)
 <br>
 **Sidebar**
 <br>
-![Sidebar](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI4_responsive1.png)
+![Sidebar](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI4_responsive1.png)
 <br>
 **Sidebar Menu Page**
-![Sidebar menu page](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI5_responsive2_Iphone_small_phone.png)
+![Sidebar menu page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI5_responsive2_Iphone_small_phone.png)
 <br>
 **Responsive**
 <br>
-![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI6_responsive3_Iphone14.png)
+![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI6_responsive3_Iphone14.png)
 **Responsive**
 <br>
-![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI7_responsive4_tablet.png)
+![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI7_responsive4_tablet.png)
 **Responsive**
 <br>
-![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/images/UI8_responsive5_macbookair.png)
+![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI8_responsive5_macbookair.png)
