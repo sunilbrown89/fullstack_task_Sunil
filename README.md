@@ -15,9 +15,11 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 # Frontend: How to clone and run the frontend
 1) npm install
 2) npm run start
+3) localhost started with port 8000: http://localhost:8000/
 # Backend: How to clone and run the backend
 1) npm install
 2) npm run start
+3) localhost started with port 3000: http://localhost:3000/
 <br>
 <br>
 <br>
