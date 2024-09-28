@@ -21,32 +21,24 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 <br>
 <br>
 <br>
-**UI**
 <br>
-![Landing Page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI1.png)
+**Login Page**
+![Login Page](https://github.com/sunilbrown89/Ungray-technology/blob/main/images/loginpage.png)
 <br>
-**Adding new task**
+**Dashboard**
+![Dashboard](https://github.com/sunilbrown89/Ungray-technology/blob/main/images/dashboard.png)
 <br>
-![Adding new task](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png)
+**Dashboard Components**
+![Dashboard Components](https://github.com/sunilbrown89/Ungray-technology/blob/main/images/dasboard-components.png)
 <br>
-**Responsive UI 1**
+**Sidebar**
 <br>
-![Responsive UI 1](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI3.png)
+![Sidebar](https://github.com/sunilbrown89/Ungray-technology/blob/main/images/sidebar.png)
 <br>
-**Responsive UI 2**
+**Sidebar Menu Page**
+![Sidebar menu page](https://github.com/sunilbrown89/Ungray-technology/blob/main/images/sidebar%20menu%20page.png)
 <br>
-![Responsive UI 2](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI4_responsive1.png)
-<br>
-**Responsive UI small phone/Iphone**
-<br>
-![Responsive UI small phone/Iphone](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI5_responsive2_Iphone_small_phone.png)
-<br>
-**Responsive UI small phone/Iphone 14 pro max**
-<br>
-![Responsive UI small phone/Iphone 14 pro max](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI6_responsive3_Iphone14.png)
-**Responsive UI tabket**
-<br>
-![Responsive UI tabket](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI7_responsive4_tablet.png)
 **Responsive**
 <br>
-![Responsive](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI8_responsive5_macbookair.png)
+![Responsive](https://github.com/sunilbrown89/Ungray-technology/blob/main/images/responsive.png)
+
