@@ -26,6 +26,7 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 <br>
 **UI**
 <br>
+![Alt text](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png?raw=true)
 ![Landing Page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png?raw=true)
 
 
