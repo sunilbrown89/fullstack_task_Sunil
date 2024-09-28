@@ -23,9 +23,11 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 ![Landing Page](https://raw.githubusercontent.com/sunilbrown89/fullstack_task_Sunil/refs/heads/main/images/UI2_after_adding_task.png)
 <br>
 **Adding new task**
+<br>
 ![Adding new task](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png)
 <br>
 **Responsive UI 1**
+<br>
 ![Responsive UI 1](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI3.png)
 <br>
 **Responsive UI 2**
@@ -33,6 +35,7 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 ![Responsive UI 2](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI4_responsive1.png)
 <br>
 **Responsive UI small phone/Iphone**
+<br>
 ![Responsive UI small phone/Iphone](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI5_responsive2_Iphone_small_phone.png)
 <br>
 **Responsive UI small phone/Iphone 14 pro max**
