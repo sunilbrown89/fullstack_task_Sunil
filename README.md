@@ -15,11 +15,11 @@ demo video link: [Video presentation of KazamEV assignment](https://drive.google
 # Frontend: How to clone and run the frontend
 1) npm install
 2) npm run start
-3) localhost started with port 8000: http://localhost:8000/
+3) localhost started with port 3000: http://localhost:3000/
 # Backend: How to clone and run the backend
 1) npm install
 2) npm run start
-3) localhost started with port 3000: http://localhost:3000/
+3) localhost started with port 8000: http://localhost:8000/
 <br>
 
 
