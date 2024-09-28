@@ -4,8 +4,8 @@ type Task = {
 };
 
 const Todo = () => {
-  const [todo, setTodo] = useState(""); // for add input value
-  const [data, setData] = useState<Task[]>([]);  //for storing data after getting from api fetch
+  const [todo, setTodo] = useState("");
+  const [data, setData] = useState<Task[]>([]);
 
   // Fetch tasks when the component mounts
   useEffect(() => {
@@ -36,8 +36,8 @@ const Todo = () => {
 
       if (response.ok) {
         const newTask = { task: todo };
-        setData([...data, newTask]); // Update the local state with the new task
-        setTodo(""); // Clear the input field
+        setData([...data, newTask]); 
+        setTodo(""); 
       } else {
         console.error("Failed to add task");
       }
@@ -54,7 +54,7 @@ const Todo = () => {
       });
 
       if (response.ok) {
-        setData([]); // Clear the state
+        setData([]); 
       } else {
         console.error("Failed to delete tasks.");
       }
