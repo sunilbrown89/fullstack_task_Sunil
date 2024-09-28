@@ -20,7 +20,7 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 2) npm run start
 <br>
 **UI**
-![Landing Page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI1.png)
+![Landing Page](https://raw.githubusercontent.com/sunilbrown89/fullstack_task_Sunil/refs/heads/main/images/UI2_after_adding_task.png)
 <br>
 **Adding new task**
 ![Adding new task](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png)
