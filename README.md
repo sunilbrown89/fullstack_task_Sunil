@@ -21,12 +21,6 @@ backend deploy link: https://fullstack-task-sunil.onrender.com
 2) npm run start
 3) localhost started with port 3000: http://localhost:3000/
 <br>
-<br>
-<br>
-<br>
-**UI**
-<br>
-![Alt text](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png)
-![Landing Page](https://github.com/sunilbrown89/fullstack_task_Sunil/blob/main/images/UI2_after_adding_task.png?raw=true)
+
 
 
